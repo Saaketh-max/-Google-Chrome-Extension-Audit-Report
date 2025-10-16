@@ -1,0 +1,2 @@
+./nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/manifest.json:   "name": "__MSG_APP_NAME__",
+./nmmhkkegccagdldgiimedpiccmgmieda/1.0.0.6_0/manifest.json:   "permissions": [ "identity", "webview", "https://www.google.com/", "https://www.googleapis.com/*", "https://payments.google.com/payments/v4/js/integrator.js", "https://sandbox.google.com/payments/v4/js/integrator.js" ],
